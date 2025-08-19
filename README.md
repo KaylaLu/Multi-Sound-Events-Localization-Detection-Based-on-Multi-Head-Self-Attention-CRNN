@@ -1,6 +1,6 @@
 ## Basic Information
 
-This is a Multi-Head Self-Attention CRNN designed for my final project, aligned with master dissertation, aiming to compete for DCASE2024 Task 3 SELD Problem. The code Repository is uploaded on Github.
+This is a Multi-Head Self-Attention CRNN designed for my final project, aligned with master dissertation, aiming to compete for DCASE2024 Task 3 SELD Problem (url{https://dcase.community/challenge2024/task-audio-and-audiovisual-sound-event-localization-and-detection-with-source-distance-estimation}). The code Repository is uploaded on Github (url{https://github.com/KaylaLu/Multi-Sound-Events-Localization-Detection-Based-on-Multi-Head-Self-Attention-CRNN}).
 
 * Author: Gening Lu
 * 
@@ -9,8 +9,6 @@ This is a Multi-Head Self-Attention CRNN designed for my final project, aligned 
 * Last Modified: Aug. 19th, 2025
 * 
 * Dataset in use: STARSS23, url{https://zenodo.org/records/7880637}
-*
-* Github address:url{}
 
 
 ### Repository Brief
@@ -29,7 +27,7 @@ This repository consists of multiple Python scripts forming one big architecture
 
 ### Environment Setup
 
-* See SELDnetMac.txt or SELDnetWin.txt; divert these files to .yaml files then import as new environment by Anaconda, depending on the system using for running the project.
+* See `SELDnetMac.txt` or `SELDnetWin.txt`; divert these files to .yaml files then import as new environment by Anaconda, depending on the system using for running the project.
 
 * Least environment requirements: Python 3.8, Pytorch 2.2.1.
 
